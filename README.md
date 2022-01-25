@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+A demonstration of this exercise is available at [https://youtu.be/rVAZ---1Aus](https://youtu.be/rVAZ---1Aus)
+
 This exercise is the first opportunity for you to get your feet wet with Godot. It will explore the first step to creating an Arcade Space Shooter: a player-controlled character. We will be exploring key bindings; adding a sprite to our game; vectors, velocity, and acceleration; and our first physics body: KinematicBody2D.
 
 First, be sure you have downloaded and installed the appropriate version of [Godot 3.4.2](https://godotengine.org/download) for your computer. Most likely, you will want the 64-bit version (only install the 32-bit version if the 64-bit doesn't run). Godot will download as a zip file. **Be sure to extract the application from the zip file and copy it to an appropriate location.**
